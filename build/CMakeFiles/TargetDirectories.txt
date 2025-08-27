@@ -1,0 +1,6 @@
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/jetvec.dir
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/jv_cli.dir
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/test_distance.dir
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/test.dir
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/edit_cache.dir
+/Users/kstephenkeehn/jetvec/build/CMakeFiles/rebuild_cache.dir
