@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libjetvec.a CMakeFiles/jetvec.dir/src/api.c.o CMakeFiles/jetvec.dir/src/distance.c.o CMakeFiles/jetvec.dir/src/distance_scalar.c.o CMakeFiles/jetvec.dir/src/mmio.c.o CMakeFiles/jetvec.dir/src/util_crc64.c.o
+/usr/bin/ranlib lib/libjetvec.a

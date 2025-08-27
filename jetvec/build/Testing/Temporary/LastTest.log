@@ -1,0 +1,19 @@
+Start testing: Aug 26 20:23 EDT
+----------------------------------------------------------
+1/1 Testing: distance
+1/1 Test: distance
+Command: "/Users/kstephenkeehn/jetvec/jetvec/build/bin/test_distance"
+Directory: /Users/kstephenkeehn/jetvec/jetvec/build
+"distance" start time: Aug 26 20:23 EDT
+Output:
+----------------------------------------------------------
+distance ok
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"distance" end time: Aug 26 20:23 EDT
+"distance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 26 20:23 EDT
