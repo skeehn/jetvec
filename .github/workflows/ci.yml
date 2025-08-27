@@ -6,7 +6,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Configure
-      run: mkdir build && cd build && cmake .. -DCMAKE_BUILD_TYPE=Release
+      run: mkdir -p build && cd build && cmake .. -DCMAKE_BUILD_TYPE=Release
     - name: Build
       run: cmake --build build -j
     - name: Test
